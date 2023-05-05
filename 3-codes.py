@@ -1,0 +1,12 @@
+# make a Python code
+print ("Hello World, this is my first time coding")
+print (" i will carry out addition, division, subtraction and multiplication")
+print ("ADDITION")
+print (5 + 4 + 7)
+print ("DIVISION")
+print (6 / 2 /6 /2/3)
+print (" SUBTRACTION")
+print ( 9-23-56)
+print ("MULTIPLICATION")
+print ( 6 * 5 * 2)
+print (" hope i make some good codes see yall later. bye!")
